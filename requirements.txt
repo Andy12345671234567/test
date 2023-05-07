@@ -3,3 +3,4 @@ pandas==1.4.3
 plotly==5.14.1
 dash-tools
 gunicorn==20.1.0
+matplotlib==3.5.1
