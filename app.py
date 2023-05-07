@@ -13,7 +13,7 @@ app = Dash(__name__, external_stylesheets=[dbc.themes.VAPOR])
 server = app.server
 
 # import file
-file_name = "https://raw.githubusercontent.com/Andy12345671234567/test/f7a1620b67ae797d40df73c518ddda092a16f9c3/train.csv"
+file_name = "https://github.com/Andy12345671234567/test/blob/main/train.csv"
 df = pd.read_csv(file_name)
 
 
